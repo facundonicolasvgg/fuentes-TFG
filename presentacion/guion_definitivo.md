@@ -44,26 +44,25 @@ Sobre el **exilio**, *Los exiliados* de **Silvina Jensen** es la obra de referen
 `[Tono didáctico.]`
 "Ese cine no contó la memoria siempre igual. En los **ochenta** domina lo que Amado llama la «imagen justa»: un realismo emotivo, casi pedagógico. En los **noventa** llegan la ambigüedad y el fragmento; como dice Sarlo, con el riesgo del «giro subjetivo», cuando el testimonio se vuelve verdad incuestionable. `[pausa]` Ese cambio se ve en mis tres películas."
 
-### 9 · CASO 1 · LA HISTORIA OFICIAL (1:05)
+### 9 · CASO 1 · LA HISTORIA OFICIAL (1:20)
 `[Tono de relato, despacio.]`
-"La primera, de 1985: *La historia oficial*. Una profesora acomodada empieza a sospechar que su hija adoptiva puede ser hija de desaparecidos. `[pausa]` Aquí el **espacio funciona como una ceguera**: el hogar burgués, cálido y cerrado, frente a la verdad de fuera —las Madres de Plaza de Mayo—. Puenzo controla cada plano para que esa casa sea la metáfora de una sociedad que prefiere no mirar. Ganó el Óscar en 1986 y en España resonó por los ecos del franquismo."
+"La primera, de 1985: *La historia oficial*. Se estrenó durante el Juicio a las Juntas, así que ir al cine tenía entonces una resonancia pública enorme. Cuenta cómo Alicia, una profesora acomodada, empieza a sospechar que su hija adoptiva puede ser hija de desaparecidos —la grieta se la abre Ana, una amiga que vuelve del exilio tras haber sido torturada—. `[pausa]` Aquí el **espacio funciona como una ceguera**: el hogar burgués, cálido y cerrado, frente a la verdad de fuera —las Madres de Plaza de Mayo—. Puenzo, que viene de la publicidad, controla cada plano para que esa casa sea la metáfora de una sociedad que prefiere no mirar. Ganó el Óscar en 1986 y resonó en España por los ecos del franquismo. `[+]` Eso sí, parte de la crítica le reprocha que su melodrama roce la «teoría de los dos demonios», al diluir la responsabilidad del Estado."
 
 ### 10 · EL EXILIO: UN PUENTE ENTRE PAÍSES (0:40)
 "¿Cómo cruzaban el Atlántico estas películas? Por dos vías. La primera, el **exilio**. Y ojo: el exiliado no es un emigrante que busca trabajo, es alguien que huye para salvar la vida. *Reflexiones de un salvaje*, de Vallejo, rodada en España, equipara el franquismo con la represión argentina. El exiliado se convierte en un **puente de memoria** entre los dos países."
 
-### 11 · LAS COPRODUCCIONES: LA VÍA INDUSTRIAL (0:45) ✂️
-`[Bloque recortable si vas largo.]`
-"La segunda vía, la decisiva: las **coproducciones**. Gracias al Convenio de 1969, una película hecha entre los dos países era nacional en ambos, y eso le abría salas y ayudas. Hubo modelos distintos: el autoral de Aristarain frente al industrial de Piñeyro. `[pausa]` Pero con una tensión: quien pone el dinero también influye en **qué imagen de Argentina** se cuenta."
+### 11 · LAS COPRODUCCIONES: LA VÍA INDUSTRIAL (1:05)
+"La segunda vía, la decisiva: las **coproducciones**. Más que un papeleo, fueron una estrategia de supervivencia frente al dominio de Hollywood. Gracias al Convenio Hispano-Argentino de 1969, una película hecha entre los dos países era nacional en ambos —con una participación de entre el 30 y el 70 %—, y eso le abría salas y ayudas. Hubo modelos distintos: el más autoral de Aristarain frente al más industrial de Piñeyro, con títulos como *Kamchatka*, que superó los 600.000 espectadores. Este modelo acabaría desembocando en el programa Ibermedia. `[pausa]` Pero con una tensión: quien pone el dinero también influye en **qué imagen de Argentina** se cuenta."
 
 ### 12 · CASO 2 · UN LUGAR EN EL MUNDO (0:55)
 `[Tono evocador.]`
-"Segundo caso, de 1992: *Un lugar en el mundo*. Un maestro rural resiste en un pueblo perdido. Aristarain lo filma como un **western**: el paisaje árido es resistencia; el tren, el progreso que arrasa. Y aquí el espacio es **unitario**: todavía hay un lugar que defender. Ganó la Concha de Oro en San Sebastián y superó el medio millón de espectadores."
+"Segundo caso, de 1992: *Un lugar en el mundo*. Un maestro rural, Mario, resiste éticamente en un pueblo perdido de San Luis; a su lado, Hans, un geólogo español, aporta la mirada de fuera. Aristarain lo filma como un **western**: el paisaje árido no es decorado, es resistencia; y el tren es el progreso que avanza y arrasa. Y aquí el espacio es **unitario** —de hecho, un tercio de la película son trayectos entre lugares que cosen ese mundo—: todavía hay un lugar que defender. Ganó la Concha de Oro en San Sebastián y superó el medio millón de espectadores."
 
 ### 13 · CASO 3 · MARTÍN (HACHE) (1:05)
 `[Marca con la voz: el corazón del trabajo.]`
-"Y el tercero, de 1997: *Martín (Hache)*. **Aquí está el corazón de mi trabajo.** Un cineasta exiliado en Madrid recibe a su hijo adolescente; ninguno pertenece del todo a ningún sitio. `[pausa]` Frente al caso anterior, aquí el espacio está **fragmentado, como la identidad**: Madrid y Buenos Aires se confunden. Y la dictadura no se nombra nunca: la memoria está en el silencio. Hasta el título lo dice —la *hache* es muda— hasta que, en un brindis final, el padre le devuelve el nombre al hijo."
+"Y el tercero, de 1997: *Martín (Hache)*. **Aquí está el corazón de mi trabajo.** Un cineasta exiliado en Madrid recibe a su hijo adolescente; ninguno pertenece del todo a ningún sitio. `[pausa]` Frente al caso anterior, aquí el espacio está **fragmentado, como la identidad**: Madrid y Buenos Aires se confunden. Y la dictadura no se nombra nunca: la memoria está en el silencio. Hasta el título lo dice —la *hache* es muda— hasta que, en un brindis final, el padre le devuelve el nombre al hijo. La presencia de Cecilia Roth y Eusebio Poncela, rostros del cine español, refuerza esa condición transatlántica. `[+]` Y hay una imagen que lo resume todo: al final, en un vídeo casero, se ve al fondo un cartel de Nueva York con la palabra «Pacífico» —un horizonte imposible—, igual que esa nostalgia que empuja a volver a un lugar que ya ni se sabe por qué es el propio."
 
-### 14 · RECEPCIÓN EN ESPAÑA (0:40) ✂️
+### 14 · RECEPCIÓN EN ESPAÑA (0:40)
 `[Tono de balance, honesto.]`
 "¿Y cómo se recibió aquí? Los festivales fueron decisivos y la crítica lo leyó como un cine con identidad propia: Elena llama a Aristarain su «buque insignia». Llegaron los Goyas, incluido el de Cecilia Roth por *Martín (Hache)*. Pero seré honesto: fue un éxito sobre todo **crítico e institucional**, no de taquilla."
 
@@ -78,14 +77,11 @@ Sobre el **exilio**, *Los exiliados* de **Silvina Jensen** es la obra de referen
 ---
 
 ## Control de tiempo
-| Tramo | Acumulado aprox. |
-|---|---|
-| Diapos 1-6 (introducción + metodología) | ~4:15 |
-| Diapos 7-13 (contenido) | ~9:35 |
-| Diapos 14-17 (cierre) | ~10:40 |
+Vas a **buen ritmo (algo rápido)**, así que este guion está **engordado a propósito** (~1.900 palabras) para que te dé **10 minutos** sin necesidad de correr.
 
-> La metodología ahora ocupa más (~1:15). Si en el ensayo te pasas de 10 min, recorta los bloques marcados con ✂️: **coproducciones (11)** y/o **recepción (14)**.
-> **Marca de control:** al terminar el **Caso 1 (diapo 9)** deberías ir por ~5:30.
+> **Si aun así te quedas corto (9 min o menos):** no hace falta añadir nada más; **baja el ritmo y alarga las `[pausa]`**. Las dos frases marcadas con `[+]` (en el Caso 1 y en *Martín (Hache)*) son contenido extra que puedes **mantener** para sumar tiempo.
+> **Si te pasas de 10:30:** entonces sí, suelta las dos frases `[+]` y acelera la recepción (14).
+> **Marca de control:** al terminar el **Caso 1 (diapo 9)** deberías ir por ~5:00–5:30.
 
 ## Hilo conductor (memorízalo)
 **EL ESPACIO**: ceguera (*La historia oficial*) · unidad (*Un lugar en el mundo*) · fragmentación (*Martín (Hache)*).
